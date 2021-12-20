@@ -1,4 +1,4 @@
-# Hi, I’m Patricia Segantine
+<!-- # Hi, I’m Patricia Segantine
 
 
 I'm a Front-End Developer and I’m interested in HTML | CSS | SASS | BootsTrap | JavaScript | React
@@ -27,3 +27,4 @@ I'm a Front-End Developer and I’m interested in HTML | CSS | SASS | BootsTrap 
 ##
 
  ![Snake animation](https://github.com/patriciasegantine/patriciasegantine/blob/output/github-contribution-grid-snake.svg)
+ -->
