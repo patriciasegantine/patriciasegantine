@@ -1,4 +1,4 @@
-# Hi, I’m Patricia Quartezani
+# Hi, I’m Patricia Segantine
 
 
 I'm a Front-End Developer and I’m interested in HTML | CSS | SASS | BootsTrap | JavaScript | React
