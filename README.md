@@ -19,9 +19,6 @@ My journey in the world of coding began with a fascination for turning ideas int
 - Exploring new technologies to stay on the cutting edge.
 - Contributing to open source projects.
 
-📫 **Reach me:**
-- LinkedIn: [https://www.linkedin.com/in/patriciasegantine](https://www.linkedin.com/in/patriciasegantine)
-
 ⚡ **Fun Fact:**
 I believe that the best code is not just functional but also a work of art.
 When not coding, you can find me experimenting with new recipes or exploring the great outdoors.
