@@ -23,6 +23,7 @@ My journey in the world of coding began with a fascination for turning ideas int
 - LinkedIn: [[Seu LinkedIn](https://www.linkedin.com/in/seulinkedin/)](https://www.linkedin.com/in/patriciasegantine/)
 
 ⚡ **Fun Fact:**
-I believe that the best code is not just functional but also a work of art. When not coding, you can find me experimenting with new recipes or exploring the great outdoors.
+I believe that the best code is not just functional but also a work of art.
+When not coding, you can find me experimenting with new recipes or exploring the great outdoors.
 
 Let's connect and collaborate on some amazing projects! 🌟
