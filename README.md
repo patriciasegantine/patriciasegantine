@@ -20,7 +20,7 @@ My journey in the world of coding began with a fascination for turning ideas int
 - Contributing to open source projects.
 
 📫 **Reach me:**
-- LinkedIn: [[Seu LinkedIn](https://www.linkedin.com/in/seulinkedin/)](https://www.linkedin.com/in/patriciasegantine/)
+- LinkedIn: [https://www.linkedin.com/in/patriciasegantine](https://www.linkedin.com/in/patriciasegantine)
 
 ⚡ **Fun Fact:**
 I believe that the best code is not just functional but also a work of art.
