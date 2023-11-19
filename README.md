@@ -1,38 +1,28 @@
-# Hi, I’m Patricia Segantine, I'm a Front-End Developer.
+```markdown
+# 👋 Hello World! 
 
+I'm Patricia, a passionate front-end developer based in Swindon - UK.
+My journey in the world of coding began with a fascination for turning ideas into interactive digital experiences.
 
+🚀 **Skills:**
+- HTML, CSS, JavaScript, Typescript.
+- React.js for dynamic web applications.
+- Styled Components for stylish and dynamic UI.
+- SASS for enhanced styling workflows.
+- Venturing into Node.js for server-side development.
 
+💼 **Currently:**
+- Learning the intricacies of Node.js for back-end development.
+- Building exciting projects to expand my portfolio.
 
-<div align="center">
-<img  height="280em"alt="paty-img" src="https://freerangestock.com/sample/119557/web-developer--web-development--programmer--programming.jpg"/>
-</div>
+🌱 **Next Steps:**
+- Exploring new technologies to stay on the cutting edge.
+- Contributing to open source projects.
 
-##
+📫 **Reach me:**
+- LinkedIn: [[Seu LinkedIn](https://www.linkedin.com/in/seulinkedin/)](https://www.linkedin.com/in/patriciasegantine/)
 
-<div style="display: inline_block" align="center" ><br>
+⚡ **Fun Fact:**
+I believe that the best code is not just functional but also a work of art. When not coding, you can find me experimenting with new recipes or exploring the great outdoors.
 
-  <img align="center" alt="paty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="paty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="paty-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="paty-Boostrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="paty-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="paty-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="paty-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <!--    <img align="center" alt="paty-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> -->
- 
- 
-</div>
-
-##
-
-<div align="center ">
- <!-- <a href="https://github.com/patriciasegantine"> 
-  <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api?username=patriciasegantine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciasegantine&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-##
-
-
-
-<!--  ![Snake animation](https://github.com/patriciasegantine/patriciasegantine/blob/output/github-contribution-grid-snake.svg) -->
+Let's connect and collaborate on some amazing projects! 🌟
