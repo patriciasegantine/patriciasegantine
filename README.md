@@ -1,17 +1,27 @@
-# Hi, I’m Patricia Segantine,
+## About Me 🚀
 
-A front-end developer based in Swindon - UK
-</br>
-</br>
-My journey in the world of coding began with a fascination for turning ideas into interactive digital experiences.
+Dynamic and passionate Front-end Developer with over 5 years of experience, specializing in crafting innovative solutions for B2B, B2C, and SaaS platforms. I have a keen interest in contributing to digital transformations and developing tailored software applications.
 
-💼 **Currently:**
-- Learning the intricacies of Node.js for back-end development.
-- Building exciting projects to expand my portfolio.
+Experienced in front-end technologies, including JavaScript (ES6), React.js, Typescript, Redux, Jest, RESTful API, GIT, HTML, CSS, Styled Component. Skilled in Azure DevOps, CI/CD, SCRUM Agile methodologies.
 
-🌱 **Next Steps:**
-- Exploring new technologies to stay on the cutting edge.
-- Contributing to open source projects.
+### Achievements 🏆
+
+I have helped companies enhance their digital presence through strategic software development and improved user experiences, achieving their goals by:
+
+- Spearheading critical feature development for B2B SaaS platforms, resulting in a reduction in project development time.
+- Applying React, TypeScript, Redux, and Context API for state management and modular component design, thereby reducing feature development time.
+- Transforming development processes by integrating with UX teams, adopting Ant Design and Styled Components, resulting in an improvement in user satisfaction.
+- Orchestrating the creation and integration of Front-end microservices, enabling the delivery of new features faster.
+- Implementing CI/CD integration on Microsoft Azure DevOps, leading to a decrease in deployment time and improved cross-functional team collaboration.
+
+### Future Endeavors 🔍
+
+Currently expanding skills to include backend development, focusing on:
+
+- Node.js
+- Fastify
+- Prisma
+- Postgre
 
 ##
 
