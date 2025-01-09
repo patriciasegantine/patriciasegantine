@@ -21,10 +21,10 @@ Here are some highlights of my professional journey:
 ## Featured Projects 🚀  
 
 - **[Patricia Portfolio](https://github.com/patriciasegantine/patricia-portfolio)**:  
-  A personal portfolio website showcasing my skills, experience, and projects, built with a minimalistic design using React, styled-components, and modern web technologies.  
+  A personal portfolio website showcasing my skills, experience, and projects, built with a minimalistic design using Next.js, React, Tailwind CSS, and TypeScript.
 
 - **[Nexus Dashboard](https://github.com/patriciasegantine/nexus-dashboard-frontend)**:  
-  A task management system featuring a user-friendly dashboard, built with React, Redux, and Ant Design to streamline workflow organization and productivity.  
+  A task management system with a user-friendly dashboard, built using Next.js, React, React Query, Tailwind CSS, TypeScript, Radix UI, and Axios to enhance workflow organization and productivity.
 
 ## Future Goals 🔍  
 
