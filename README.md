@@ -26,7 +26,7 @@ Here are some highlights of my professional journey:
 - **[Nexus Dashboard](https://github.com/patriciasegantine/nexus-dashboard-frontend)**:  
   A task management system with a user-friendly dashboard, built using Next.js, React, React Query, Tailwind CSS, TypeScript, Radix UI, and Axios to enhance workflow organization and productivity.
 
-## Future Goals 🔍  
+<!-- ## Future Goals 🔍  
 
 I'm continuously expanding my skill set to enhance my versatility as a developer:  
 
@@ -39,7 +39,7 @@ I'm always looking for new challenges and collaboration opportunities. Let's cre
 - **GitHub:** [github/patriciasegantine](https://github.com/patriciasegantine)  
 - **LinkedIn:** [linkedin/patriciasegantine](https://www.linkedin.com/in/patriciasegantine)  
 - **Portfolio:** [patriciasegantine.vercel.app](https://patriciasegantine.vercel.app/)  
-
+--->
 ##
 
 <div style="display: inline_block" align="center" ><br>
