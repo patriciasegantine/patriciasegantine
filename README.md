@@ -1,31 +1,29 @@
 ### Hello, I’m Patricia Segantine 👋
 
-Front-End Developer with over five years of experience building user-facing features in product-led SaaS environments.
+Front-End Developer with over five years of experience working on user-facing features in product-led SaaS environments, with a strong focus on production stability, accessibility and scalable front-end systems.
 
-I mainly work with React, TypeScript and Next.js, focusing on performance, accessibility and clean, maintainable front-end architecture. I enjoy working on real products, in collaborative teams, where engineers have ownership and contribute to technical decisions.
+I primarily work with React and TypeScript, contributing to large-scale, high-traffic applications within micro-frontend environments. My day-to-day work involves delivering critical features, improving performance and ensuring predictable behaviour across complex user journeys.
 
-In my current role, I work on a white-label, multi-tenant SaaS platform with a micro-frontend setup, owning the front-end delivery of public-facing features for a platform serving over 10 million users across B2B and B2C campaigns.
+Alongside my professional work, I use GitHub to practise, study and experiment with modern front-end tools and patterns, including Next.js, with a focus on performance optimisation, maintainable architecture and real-world use cases.
 
 ---
 
-### 🛠 Tech Stack
-
-- **Front-End:** React, TypeScript, Next.js, JavaScript (ES6+), HTML5, CSS3  
-- **Styling & UI:** Tailwind CSS, Ant Design, Material UI, Styled Components  
-- **State & Data:** Redux Toolkit, React Query, REST APIs  
-- **Architecture:** Micro-frontends, Design Systems, Modular Architecture  
-- **Testing & Quality:** Jest, React Testing Library, Storybook, WCAG 2.1 AA  
+- **Front-End:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3  
+- **Architecture:** Micro-frontends (Single-SPA), Design Systems, Component-based Architecture  
+- **State & Data:** State Management & Data Fetching, REST APIs  
+- **Testing & Quality:** Jest, React Testing Library, Storybook, Accessibility (WCAG)  
 - **DevOps & Cloud:** Azure DevOps (CI/CD), AWS (S3, CloudFront), Git  
+- **Styling & UI:** Tailwind CSS, Ant Design, Styled Components  
 
 ---
 
 ### 🏆 Selected Highlights
 
-- Contributed to the delivery of **18+ React/TypeScript micro-frontend modules** for a large-scale, product-led SaaS platform  
-- Owned the front-end delivery of **high-traffic campaign features**, including Prize Draw modules, dashboards and multi-step user flows  
-- Built scalable and accessible front-end interfaces aligned with **WCAG 2.1 AA**, focusing on usability and maintainability  
-- Supported CI/CD pipelines and front-end deployments in Azure DevOps and AWS environments  
+- Contributed to the delivery of multiple React and TypeScript micro-frontend modules for a large-scale SaaS platform  
+- Took ownership of front-end delivery for high-traffic, public-facing features, including complex multi-step user flows and dashboards  
+- Applied accessibility best practices (WCAG) across critical user-facing interfaces  
+- Supported front-end CI/CD workflows and deployments within Azure DevOps and AWS environments  
 
 ---
 
-I mainly use GitHub to practise, study, and experiment with new tools, patterns, and use cases outside of my day-to-day work.
+I mainly use GitHub as a space to explore ideas, learn new tools and refine front-end patterns that complement my work in production environments.
