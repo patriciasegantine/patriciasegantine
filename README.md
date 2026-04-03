@@ -1,39 +1,37 @@
-# Hello, I’m Patricia Segantine 👋
+# Hello, I’m Patricia 👋
 
-Senior Frontend Engineer with over 5 years of experience working on user-facing features in product-led SaaS environments, with a strong focus on production stability, accessibility, and scalable frontend systems.
+I’m a Frontend Engineer with over 5 years of experience working mainly with React and TypeScript.
 
-I work with React, TypeScript, and Next.js, contributing to a B2B and B2C SaaS product within a micro-frontend architecture, operating at scale. My day-to-day work focuses on delivering business-critical features, improving performance, and ensuring predictable behaviour across complex user journeys.
+Most of my professional experience is focused on frontend development in SaaS products, with a strong interest in performance, accessibility, and building maintainable user interfaces.
 
-Alongside my professional work, I use GitHub as a space to explore ideas and experiment with modern frontend tools and patterns, with a focus on performance optimisation, maintainable architecture, and real-world use cases.
+I use GitHub mainly for personal projects and technical exploration. It’s where I experiment with ideas, test new tools, and build practical applications that help me deepen my understanding of frontend architecture, APIs, and backend development.
 
----
-
-## 🏆 Selected Highlights
-
-- Contributed to 18+ micro-frontend modules, enabling parallel delivery across teams  
-- Led the delivery of business-critical features, contributing to a ~30% reduction in production regressions  
-- Increased automated test coverage to ~80% in critical areas using Jest and React Testing Library  
-- Improved performance in key user flows by reducing unnecessary re-renders  
-- Delivered accessible interfaces following WCAG best practices across critical user journeys  
+Most of the projects here are built with a practical mindset, with a focus on clean implementation, maintainability, and real-world use cases.
 
 ---
 
-## 🧱 Tech Stack
+## What you’ll find here
+
+- Personal frontend projects built with React, TypeScript, and Next.js  
+- Experiments around performance, accessibility, and UI quality  
+- Practical exploration of APIs, OpenAPI, and backend tools  
+- Projects created to learn, test ideas, and keep growing as an engineer
+
+---
+
+## Main Tools & Technologies
 
 **Frontend**  
-React, TypeScript, JavaScript (ES6+), HTML5, CSS3  
+React, TypeScript, JavaScript (ES6+), Next.js, HTML5, CSS3
 
 **Styling & UI**  
-Tailwind CSS, Ant Design, Styled Components  
+Tailwind CSS, Ant Design, Styled Components, shadcn/ui
 
-**Architecture**  
-Micro-frontends (Single-SPA), Design Systems, Component-based Architecture  
+**Backend & Data**  
+Node.js, Fastify, PostgreSQL, Drizzle ORM, REST APIs
 
-**State & Data**  
-Zustand, React Query, Redux, REST APIs  
+**Architecture & Quality**  
+Micro-frontends, Design Systems, Component-based Architecture, Jest, React Testing Library, Accessibility (WCAG)
 
-**Testing & Quality**  
-Jest, React Testing Library, Storybook, Accessibility (WCAG)  
-
-**DevOps & Cloud**  
-Azure DevOps (CI/CD), AWS (S3, CloudFront), Git 
+**Tools & DevOps**  
+Git, GitHub Actions, OpenAPI, Swagger, Scalar, Azure DevOps, AWS
