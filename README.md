@@ -1,37 +1,44 @@
-# Hello, I’m Patricia 👋
+# Hi, I'm Patricia 👋
 
-I’m a Frontend Engineer with over 5 years of experience working mainly with React and TypeScript.
+Frontend Developer with a thing for clean interfaces, solid architecture, and understanding how the full picture fits together.
 
-Most of my professional experience is focused on frontend development in SaaS products, with a strong interest in performance, accessibility, and building maintainable user interfaces.
-
-I use GitHub mainly for personal projects and technical exploration. It’s where I experiment with ideas, test new tools, and build practical applications that help me deepen my understanding of frontend architecture, APIs, and backend development.
-
-Most of the projects here are built with a practical mindset, with a focus on clean implementation, maintainability, and real-world use cases.
+I use GitHub mainly for personal projects, experiments, and learning, it's where I explore new tools, test ideas, and build things that help
+me grow as an engineer.
 
 ---
 
-## What you’ll find here
+## 🔨 What I'm working on
 
-- Personal frontend projects built with React, TypeScript, and Next.js  
-- Experiments around performance, accessibility, and UI quality  
-- Practical exploration of APIs, OpenAPI, and backend tools  
-- Projects created to learn, test ideas, and keep growing as an engineer
+### [Nexus](https://github.com/patriciasegantine/nexus-dashboard) — Analytics Dashboard *(in progress)*
+A fullstack analytics dashboard built with Next.js — using API Routes for
+the backend, PostgreSQL via Neon, and Drizzle ORM. Deployed on Vercel.
+Next steps include a Design System with Storybook and deeper component
+architecture exploration.
+
+### [Brev.ly](https://github.com/patriciasegantine/brev.ly) — URL Shortener
+Full-stack URL shortener with link management, access tracking, and CSV
+export via Cloudflare R2. Built with React + Vite, Fastify, and PostgreSQL
+— deployed to AWS S3 + CloudFront via GitHub Actions.
 
 ---
 
-## Main Tools & Technologies
+## 🧰 Main tools & technologies
 
-**Frontend**  
-React, TypeScript, JavaScript (ES6+), Next.js, HTML5, CSS3
+**Frontend**
+React · TypeScript · Next.js · Vite · Tailwind CSS · shadcn/ui
 
-**Styling & UI**  
-Tailwind CSS, Ant Design, Styled Components, shadcn/ui
+**Backend & Data**
+Node.js · Fastify · PostgreSQL · Drizzle ORM · REST APIs
 
-**Backend & Data**  
-Node.js, Fastify, PostgreSQL, Drizzle ORM, REST APIs
+**Quality & Architecture**
+Jest · React Testing Library · Accessibility (WCAG) · Micro-frontends
 
-**Architecture & Quality**  
-Micro-frontends, Design Systems, Component-based Architecture, Jest, React Testing Library, Accessibility (WCAG)
+**Tools**
+Git · GitHub Actions · Docker · AWS · Azure DevOps
 
-**Tools & DevOps**  
-Git, GitHub Actions, OpenAPI, Swagger, Scalar, Azure DevOps, AWS
+---
+
+## 📬 Find me elsewhere
+
+[LinkedIn](https://linkedin.com/in/patriciasegantine)
+· [Portfolio](https://patriciasegantine.vercel.app/)
