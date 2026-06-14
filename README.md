@@ -9,16 +9,17 @@ me grow as an engineer.
 
 ## 🔨 What I'm working on
 
-### [Nexus](https://github.com/patriciasegantine/nexus-dashboard) — Analytics Dashboard *(in progress)*
-A fullstack analytics dashboard built with Next.js — using API Routes for
-the backend, PostgreSQL via Neon, and Drizzle ORM. Deployed on Vercel.
-Next steps include a Design System with Storybook and deeper component
-architecture exploration.
+### [Nexus](https://github.com/patriciasegantine/nexus-app) — Project & Task Management *(in progress)*
+A fullstack project management app built with Next.js 15 App Router, using
+Server Components and Server Actions for data fetching and mutations,
+Auth.js v5 for authentication, and Prisma with PostgreSQL via Neon.
+Migrated from a client-only frontend with React Query and an external REST API.
+Deployed on Vercel.
 
 ### [Brev.ly](https://github.com/patriciasegantine/brev.ly) — URL Shortener
 Full-stack URL shortener with link management, access tracking, and CSV
-export via Cloudflare R2. Built with React + Vite, Fastify, and PostgreSQL
-— deployed to AWS S3 + CloudFront via GitHub Actions.
+export via Cloudflare R2. Built with React + Vite, Fastify, and PostgreSQL,
+deployed to AWS S3 + CloudFront via GitHub Actions.
 
 ---
 
