@@ -1,6 +1,6 @@
 # Hi, I'm Patricia 👋
 
-Senior Frontend Developer with a thing for clean interfaces, solid architecture, and understanding how the full picture fits together.
+Senior Frontend Engineer with a thing for clean interfaces, solid architecture, and understanding how the full picture fits together.
 I use GitHub mainly for personal projects, experiments, and learning. It's where I explore new tools, test ideas, and build things that help me grow as a developer.
 
 ---
